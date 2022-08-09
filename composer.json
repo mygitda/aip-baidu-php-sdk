@@ -1,8 +1,8 @@
 {
   "name": "baidusdk/aip-baidu-php-sdk",
   "description": "baidu pulic ai php sdk",
-  "type": "library",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
+  "license": "Apache-2.0",
   "require": {
     "php": ">=5.3.3"
   },
