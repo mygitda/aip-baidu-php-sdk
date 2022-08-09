@@ -22,7 +22,7 @@
 **Composer安装：**
 
 ```
-  composer require baidu/aip-baidu-php-sdk
+  composer require baidusdk/aip-baidu-php-sdk
 ```
 
 **手动安装步骤如下：**
